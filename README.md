@@ -1,1 +1,2 @@
-# Movies-ETL
+# Purpose
+Created an automated pipeline so that as new data becomes available it can be pushed through our code, cleaned and loaded to the database. This code can now be reused at scale to clean movei data coming from wikipedia and kaggle.
